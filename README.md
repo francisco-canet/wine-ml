@@ -2,6 +2,8 @@
 
 ## Proyecto de Machine Learning para predecir la calidad del vino en función de sus propiedades fisicoquímicas.
 
+**Autor**: Francisco Canet
+
 En este repositorio encontraras:
 1. Notebook con análisis exploratorio de datos, modelos de Machine Learning utilizados y feature importance.
 2. Presentación con los resultados más importantes.
